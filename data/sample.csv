@@ -1,0 +1,10 @@
+itm_val_key,itm_mstr_key,val_srt_id,itm_id,val_id,val_txt,val_loinc_id
+343,4,1,fileSpecVersion,2.00.0,"Initial version of mandatory PBJ data specifications, beginning 06/26/2016",
+349,7,1,stateCode,AL,Alabama,
+350,8,1,facilityId,Text,Facility/provider submission ID,
+352,10,1,softwareVendorEmail,Valid e-mail,Software vendor e-mail address,
+353,11,1,softwareProductName,Text,Name of software product used to produce submission file,
+354,12,1,softwareProductVersion,Text,Version number of software product used to produce submission file,
+2103,522,1,softwareVendorName,Text,Software vendor company name,
+2111,7,2,stateCode,AK,Alaska,
+2113,7,4,stateCode,AZ,Arizona,
